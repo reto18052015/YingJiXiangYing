@@ -4,6 +4,8 @@
 - D盾 https://www.d99net.net/index.asp
 - 河马 https://www.shellpub.com/
 
+- rootkit工具旨在 linux 上检测命令是否被感染
+
 
 
 | history      |        |
